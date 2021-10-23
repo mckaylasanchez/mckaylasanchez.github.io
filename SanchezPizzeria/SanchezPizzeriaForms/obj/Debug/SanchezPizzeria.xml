@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SanchezPizzeria
+</name>
+</assembly>
+<members>
+<member name="T:SanchezPizzeria.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SanchezPizzeria.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SanchezPizzeria.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeHistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderLineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductTypeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.RestaurantDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerPurchasesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.usp_EmployeeCustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ufn_CustomerRestaurantDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerOrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeHistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderLineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductTypeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.RestaurantRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerPurchasesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.usp_EmployeeCustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ufn_CustomerRestaurantRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerOrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.EmployeeTypeHistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.OrderLineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ProductTypeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.RestaurantRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerPurchasesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.usp_EmployeeCustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.ufn_CustomerRestaurantRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSet.CustomerOrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.CustomerPurchasesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.EmployeeTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.EmployeeTypeHistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.OrderLineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.ProductTypeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.RestaurantTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.usp_EmployeeCustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.ufn_CustomerRestaurantTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.CustomerOrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SanchezPizzeria.SanchezPizzeriaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SanchezPizzeria.SanchezPizzeriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SanchezPizzeria.SanchezPizzeriaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.UpdateAll(SanchezPizzeria.SanchezPizzeriaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SanchezPizzeria.SanchezPizzeriaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

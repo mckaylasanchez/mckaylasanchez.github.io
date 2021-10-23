@@ -1,0 +1,16 @@
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\bin\Debug\SanchezPizzeria.exe.config
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\bin\Debug\SanchezPizzeria.exe
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\bin\Debug\SanchezPizzeria.pdb
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\bin\Debug\SanchezPizzeria.xml
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeriaForms.vbprojAssemblyReference.cache
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.Employee.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.Customer.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.Restaurant.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.SearchOrder.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.Resources.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.Startup.resources
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeriaForms.vbproj.GenerateResource.cache
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeriaForms.vbproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.exe
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.xml
+C:\Users\sanch\source\repos\SanchezPizzeria\SanchezPizzeriaForms\obj\Debug\SanchezPizzeria.pdb
